@@ -82,14 +82,11 @@ Il permet notamment :
 
 **Avant la promotion** : 
 
-  Windows Server 2022
-          │
-          └── Serveur classique
-        
+  Windows Server 2022 --> Serveur Classique
 
 **Après la promotion** : 
 
-  Windows Server 2022
+  Windows Server 2022 --
           │
           └── Domain Controller
                   │
